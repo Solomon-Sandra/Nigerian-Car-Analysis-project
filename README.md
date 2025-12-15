@@ -10,12 +10,15 @@
 - [Analysis Results](#analysis-results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- Dashboard Preview
 
 ## Project Overview
 
 This project is an interactive Excel dashboard designed to analyze the Nigerian car market.  
 It visualizes key vehicle metrics, popular car brands, buyer preferences, and regional distribution to provide clear market insights.
+
+![Car Analysis Dashboard](https://github.com/user-attachments/assets/bf3a5f0a-5b70-407f-a938-841a101fb4e0)
+
+![Car Market Dashboard](https://github.com/user-attachments/assets/0c7b3ebb-34ad-4c8d-88ea-ec8964f24cf5)
 
 ## Data Source
 
@@ -77,4 +80,3 @@ Based on the analysis, we recommend the following
 - Some entries had missing or inconsistent values, which could affect analysis accuracy
 - Only basic vehicle metrics and trends are analyzed; advanced statistical or predictive analysis was not performed
   
-## Dashboard Preview
