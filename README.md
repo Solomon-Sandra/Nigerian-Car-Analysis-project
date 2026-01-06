@@ -57,7 +57,8 @@ The following questions were explored in the dataset:
 - Car color preference analysis
 - Geographic distribution of cars across Nigeria
 - Clean, dark-themed, and user-friendly design with a car image background to reflect the Nigerian car market
-  
+  <img width="743" height="443" alt="car market dashboard" src="https://github.com/user-attachments/assets/f52d287d-24cb-45ed-b0f9-0b55dffa2fe8" />
+
 ## Analysis Results
 
 The analysis results are summarized as follows:
